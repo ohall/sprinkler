@@ -15,3 +15,4 @@ MSV Pressure Drop
 GOU Xenocrat
 Clipper Screw Loose
 GCU Prosthetic Conscience
+GCU Sacrificial Victim
