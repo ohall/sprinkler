@@ -22,3 +22,4 @@ GCU Arbitrary
 LSV Profit Margin
 GCU Prosthetic Conscience
 GOU Headcrash
+GCU Not Wanted On Voyage
