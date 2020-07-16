@@ -1,0 +1,24 @@
+{
+  "name": "sprinkler",
+  "version": "1.0.0",
+  "description": "sprinkle some commits in your profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohall/sprinkler.git"
+  },
+  "keywords": [],
+  "author": "Oakley Hall <oakley349@gmail.com> (http://www.flowstate.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohall/sprinkler/issues"
+  },
+  "homepage": "https://github.com/ohall/sprinkler#readme",
+  "dependencies": {
+    "culture-ships": "^1.0.1",
+    "nodegit": "^0.26.5"
+  }
+}
