@@ -24,3 +24,4 @@ GCU Prosthetic Conscience
 GOU Headcrash
 GCU Not Wanted On Voyage
 GSV Cargo Cult
+GCU Boo!
