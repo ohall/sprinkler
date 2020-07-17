@@ -5,12 +5,12 @@ const {Clone, Reference, Signature, Remote, Cred} = require('nodegit');
 const ships = require('culture-ships');
 const rimraf = require('rimraf');
 const fileName = 'ships.txt';
-const author = Signature.now('Beep Boop', 'beepn@boop.com');
-const committer = Signature.now('Beep Boop', 'beepn@boop.com');
 const tmpPath = path.join(__dirname, 'tmp');
 const repoURL = process.argv[2];
 const repoUsername = process.argv[3];
 const repoPassword = process.argv[4];
+const author = Signature.now('Beep Boop', repoUsername);
+const committer = Signature.now('Oakley Hall', repoUsername);
 
 const go = async function() {
   const msg = ships.random();
