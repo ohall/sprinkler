@@ -20,7 +20,7 @@ const go = async function() {
     fs.appendFileSync( path.join(__dirname, 'tmp', fileName), `${message}\n` );
     await add({fs, dir, filepath: fileName});
     await commit({fs, dir, message, author});
-    await push({ fs, http, dir: 'tmp', remote: 'origin', ref: 'master', onAuth: () => ({ username: token }),});
+    await push({ fs, http, dir, remote: 'origin', ref: 'master', onAuth: () => ({ username: token }),});
 
   } catch (e) {
     console.log( e );
