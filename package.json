@@ -15,7 +15,7 @@
   "homepage": "https://github.com/ohall/sprinkler#readme",
   "dependencies": {
     "culture-ships": "^1.0.1",
-    "nodegit": "^0.26.5",
+    "isomorphic-git": "^1.7.3",
     "rimraf": "^3.0.2"
   }
 }

@@ -1,39 +1,33 @@
 #!/usr/bin/env node
 const fs = require('fs');
-var path = require('path');
-const {Clone, Reference, Signature, Remote, Cred} = require('nodegit');
+const path = require('path');
+const {clone, add, commit, push} = require('isomorphic-git');
+const http = require('isomorphic-git/http/node');
 const ships = require('culture-ships');
 const rimraf = require('rimraf');
 const fileName = 'ships.txt';
-const tmpPath = path.join(__dirname, 'tmp');
+const dir = path.join(__dirname, 'tmp');
 const repoURL = process.argv[2];
 const repoUsername = process.argv[3];
-const repoPassword = process.argv[4];
-const author = Signature.now('Beep Boop', repoUsername);
-const committer = Signature.now('Oakley Hall', repoUsername);
+const token = process.argv[4];
+const author = {name: 'Beep Boop', email: repoUsername};
 
 const go = async function() {
-  const msg = ships.random();
+  const message = ships.random();
   try {
-    rimraf.sync(tmpPath);
-    const repo = await Clone(repoURL, tmpPath);
-    fs.appendFileSync( path.join(__dirname, 'tmp', fileName), `${msg}\n` );
-    const index = await repo.refreshIndex();
-    await index.addByPath(fileName);
-    await index.write();
-    const oid = await index.writeTree();
-    const head = await Reference.nameToId(repo, 'HEAD');
-    const parent = await repo.getCommit(head);
-    await repo.createCommit('HEAD', author, committer, msg, oid, [parent]);
-    const remote = await Remote.lookup(repo, 'origin');
-    const credentials = () => Cred.userpassPlaintextNew(repoUsername, repoPassword);
-    await remote.push(['refs/heads/master:refs/heads/master'], { callbacks: { credentials } });
+    rimraf.sync(dir);
+    await clone({ fs, http, dir, url: repoURL, singleBranch: true, depth: 1 });
+    fs.appendFileSync( path.join(__dirname, 'tmp', fileName), `${message}\n` );
+    await add({fs, dir, filepath: fileName});
+    await commit({fs, dir, message, author});
+    await push({ fs, http, dir: 'tmp', remote: 'origin', ref: 'master', onAuth: () => ({ username: token }),});
+
   } catch (e) {
+    console.log( e );
     console.error( 'Commit and push operation failed' );
-    console.error( e );
     return 1;
   }
-  console.log( `Commit ${msg} pushed` );
+  console.log( `Commit ${message} pushed` );
 };
 
 go();
