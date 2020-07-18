@@ -4,7 +4,7 @@ const path = require('path');
 const {clone, add, commit, push} = require('isomorphic-git');
 const http = require('isomorphic-git/http/node');
 const ships = require('culture-ships');
-const rimraf = require('rimraf');
+const del = require('del');
 const fileName = 'ships.txt';
 const dir = path.join(__dirname, 'tmp');
 const repoURL = process.argv[2];
@@ -15,7 +15,7 @@ const author = {name: 'Beep Boop', email: repoUsername};
 const go = async function() {
   const message = ships.random();
   try {
-    rimraf.sync(dir);
+    await del(dir);
     await clone({ fs, http, dir, url: repoURL, singleBranch: true, depth: 1 });
     fs.appendFileSync( path.join(__dirname, 'tmp', fileName), `${message}\n` );
     await add({fs, dir, filepath: fileName});
@@ -31,4 +31,3 @@ const go = async function() {
 };
 
 go();
-
