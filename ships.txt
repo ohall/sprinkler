@@ -96,3 +96,4 @@ GSV Contents May Differ
 Fixed Grin
 VFP/(D)ROU Xenophobe
 GCU Reasonable Excuse
+GCU Prosthetic Conscience
