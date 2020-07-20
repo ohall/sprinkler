@@ -94,3 +94,4 @@ GSV Lasting Damage II
 GCU Qualifier
 GSV Contents May Differ
 Fixed Grin
+VFP/(D)ROU Xenophobe
