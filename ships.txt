@@ -118,3 +118,4 @@ Shoot Them Later
 VFP/(D)LOU Rapid Random Response Unit
 VFP/(D)ROU Resistance Is Character-Forming
 GCU Unwitting Accomplice
+GCU Synchronize Your Dogmas
