@@ -143,3 +143,4 @@ GCU It's Character Forming
 GCU Just Testing
 GSV Death And Gravity
 LOU Caconym
+GSV Determinist
