@@ -139,3 +139,4 @@ LSV Misophist
 MSV Not Invented Here
 GCU Displacement Activity
 GSV Cargo Cult
+GCU It's Character Forming
