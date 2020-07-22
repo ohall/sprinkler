@@ -189,3 +189,4 @@ LOU Gunboat Diplomat
 GSV Limivorous
 GCU Warm, Considering
 (ex-)GCU Smile Tolerantly
+GCU Arbitrary
