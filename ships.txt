@@ -192,3 +192,4 @@ GCU Warm, Considering
 GCU Arbitrary
 GSV Use Psychology
 GOU Questionable Ethics
+(ex-)GCU Smile Tolerantly
