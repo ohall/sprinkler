@@ -188,3 +188,4 @@ GSV What Are The Civilian Applications?
 LOU Gunboat Diplomat
 GSV Limivorous
 GCU Warm, Considering
+(ex-)GCU Smile Tolerantly
