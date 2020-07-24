@@ -278,3 +278,4 @@ VFP/(D)LOU Rapid Random Response Unit
 GCU You Naughty Monsters
 GCU Reasonable Excuse
 LSV Xenoglossicist
+GSV Ethics Gradient
