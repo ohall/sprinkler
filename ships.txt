@@ -279,3 +279,4 @@ GCU You Naughty Monsters
 GCU Reasonable Excuse
 LSV Xenoglossicist
 GSV Ethics Gradient
+GSV Limivorous
