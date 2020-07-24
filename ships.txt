@@ -261,3 +261,4 @@ GCU Reasonable Excuse
 GOU Questionable Ethics
 Scar Glamour
 GCU Transient Atmospheric Phenomenon
+(D)ROU Zealot
