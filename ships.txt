@@ -329,3 +329,4 @@ Beastly To The Animals
 GCU Halation Effect
 GCU Arbitrary
 GSV Unreliable Witness
+FP/(D)GOU Eight Rounds Rapid
