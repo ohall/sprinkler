@@ -302,3 +302,4 @@ GCU Recent Convert
 GCU Space Monster
 GCU Problem Child
 GCU Ablation
+GCU Not Wanted On Voyage
