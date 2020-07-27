@@ -301,3 +301,4 @@ Superlifter Prime Mover
 GCU Recent Convert
 GCU Space Monster
 GCU Problem Child
+GCU Ablation
