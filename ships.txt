@@ -405,3 +405,4 @@ GCV Subtle Shift In Emphasis
 GSV Pelagian
 GSV Eschatologist
 GCU Unacceptable Behaviour
+GCU Heresiarch
