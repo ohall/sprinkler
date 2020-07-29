@@ -408,3 +408,4 @@ GCU Unacceptable Behaviour
 GCU Heresiarch
 Clipper Screw Loose
 GCU Experiencing A Significant Gravitas Shortfall
+GCU Tactical Grace
