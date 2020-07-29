@@ -386,3 +386,4 @@ VFP/(D)LOU Rapid Random Response Unit
 LOU Attitude Adjuster
 GCU Flexible Demeanour
 GCU Recent Convert
+Clipper Screw Loose
