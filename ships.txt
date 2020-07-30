@@ -458,3 +458,4 @@ GCU Flexible Demeanour
 GSV Lasting Damage I
 Superlifter Zoologist
 GCU Recent Convert
+GSV Youthful Indiscretion
