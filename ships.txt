@@ -442,3 +442,4 @@ GCU Credibility Problem
 GCU Dramatic Exit
 GSV Lasting Damage
 GSV Sanctioned Parts List
+GOU Xenocrat
