@@ -457,3 +457,4 @@ GCU Fate Amenable To Change
 GCU Flexible Demeanour
 GSV Lasting Damage I
 Superlifter Zoologist
+GCU Recent Convert
