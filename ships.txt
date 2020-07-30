@@ -444,3 +444,4 @@ GSV Lasting Damage
 GSV Sanctioned Parts List
 GOU Xenocrat
 GCU Armchair Traveller
+GSV Ethics Gradient
