@@ -528,3 +528,4 @@ GSV No Fixed Abode
 GCU Armchair Traveller
 GCU Not Wanted On Voyage
 GCU Sacrificial Victim
+FP/(D)GOU Eight Rounds Rapid
