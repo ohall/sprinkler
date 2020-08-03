@@ -530,3 +530,4 @@ GCU Not Wanted On Voyage
 GCU Sacrificial Victim
 FP/(D)GOU Eight Rounds Rapid
 GCU Experiencing A Significant Gravitas Shortfall
+GCU A Ship With A View
