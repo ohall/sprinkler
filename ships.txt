@@ -525,3 +525,4 @@ GSV A Fine Disregard For Awkward Facts
 GSV Quietly Confident,
 GOU/PS Falling Outside The Normal Moral Constraints
 GSV No Fixed Abode
+GCU Armchair Traveller
