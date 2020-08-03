@@ -526,3 +526,4 @@ GSV Quietly Confident,
 GOU/PS Falling Outside The Normal Moral Constraints
 GSV No Fixed Abode
 GCU Armchair Traveller
+GCU Not Wanted On Voyage
