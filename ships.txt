@@ -580,3 +580,4 @@ GSV What Are The Civilian Applications?
 LOU Attitude Adjuster
 GSV Teething Problems
 GCU You'll Thank Me Later
+GCV Steely Glint
