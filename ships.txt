@@ -586,3 +586,4 @@ GCU Arrested Development
 GCU Dramatic Exit
 GSV Lasting Damage I
 GCU Space Monster
+GSV Empiricist
