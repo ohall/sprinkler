@@ -577,3 +577,4 @@ LOU Attitude Adjuster
 GSV Total Internal Reflection
 GSV Sense Amid Madness, Wit Amidst Folly
 GSV What Are The Civilian Applications?
+LOU Attitude Adjuster
