@@ -597,3 +597,4 @@ GCU Dramatic Exit
 GSV Use Psychology
 (D)GOU Limiting Factor
 GSV Ethics Gradient
+VFP/(D)ROU Resistance Is Character-Forming
