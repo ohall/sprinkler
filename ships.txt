@@ -596,3 +596,4 @@ GCU Arrested Development
 GCU Dramatic Exit
 GSV Use Psychology
 (D)GOU Limiting Factor
+GSV Ethics Gradient
