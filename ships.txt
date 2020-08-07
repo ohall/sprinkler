@@ -606,3 +606,4 @@ LCU Anything Legal Considered
 GCU Dramatic Exit
 GCU It's Character Forming
 GSV A Fine Disregard For Awkward Facts
+GCU A Series Of Unlikely Explanations
