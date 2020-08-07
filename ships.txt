@@ -640,3 +640,4 @@ LSV Serious Callers Only
 LOU Attitude Adjuster
 LSV You Call This Clean?
 GCU Space Monster
+GOU Xenocrat
