@@ -612,3 +612,4 @@ GCU A Ship With A View
 GSV Limivorous
 GCU Arbitrary
 GCU Qualifier
+LCU Anything Legal Considered
