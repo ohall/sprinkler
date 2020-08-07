@@ -644,3 +644,4 @@ GOU Xenocrat
 GSV Quietly Confident,
 GSV Sense Amid Madness, Wit Amidst Folly
 GSV The Ends Of Invention
+GCU Different Tan
