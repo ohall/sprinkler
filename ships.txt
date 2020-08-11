@@ -724,3 +724,4 @@ GCU Armchair Traveller
 GSV Contents May Differ
 GCU Transient Atmospheric Phenomenon
 GCV Steely Glint
+GSV Kakistocrat
