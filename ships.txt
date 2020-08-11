@@ -727,3 +727,4 @@ GCV Steely Glint
 GSV Kakistocrat
 GCU A Ship With A View
 (D)GOU Limiting Factor
+GSV Irregular Apocalypse
