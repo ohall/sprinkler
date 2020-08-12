@@ -772,3 +772,4 @@ GCU Fate Amenable To Change
 GSV Ethics Gradient
 GCU Not Wanted On Voyage
 GCU Recent Convert
+(ex-)GCU Smile Tolerantly
