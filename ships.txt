@@ -833,3 +833,4 @@ GCU Recent Convert
 GSV Lasting Damage II
 GCU Not Wanted On Voyage
 GCU Warm, Considering
+GSV Yawning Angel
