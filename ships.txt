@@ -877,3 +877,4 @@ GSV Lasting Damage II
 GCU Happy Idiot Talk
 GOU/PS Falling Outside The Normal Moral Constraints
 FP/(D)LOU Hylozoist
+ROU Nuisance Value
