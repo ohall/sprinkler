@@ -924,3 +924,4 @@ Fixed Grin
 GCU Qualifier
 GOU Xenocrat
 LOU Attitude Adjuster
+GSV Sense Amid Madness, Wit Amidst Folly
