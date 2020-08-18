@@ -923,3 +923,4 @@ GSV The Ends Of Invention
 Fixed Grin
 GCU Qualifier
 GOU Xenocrat
+LOU Attitude Adjuster
