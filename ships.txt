@@ -998,3 +998,4 @@ GCU Not Wanted On Voyage
 GCU Never Talk To Strangers
 GOU Headcrash
 GSV Lasting Damage I
+Superlifter Prime Mover
