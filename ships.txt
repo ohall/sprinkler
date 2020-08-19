@@ -984,3 +984,4 @@ GSV Lasting Damage II
 GOU Questionable Ethics
 GSV Wisdom Like Silence
 GCU Big Sexy Beast
+(D)ROU Zealot
