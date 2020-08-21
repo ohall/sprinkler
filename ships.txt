@@ -67,3 +67,4 @@ GCU Problem Child
 MSV Pressure Drop
 GSV Limivorous
 LCU Anything Legal Considered
+GSV Kakistocrat
