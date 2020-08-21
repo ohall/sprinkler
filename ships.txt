@@ -65,3 +65,4 @@ GSV Irregular Apocalypse
 GCU Ultimate Ship The Second
 GCU Problem Child
 MSV Pressure Drop
+GSV Limivorous
