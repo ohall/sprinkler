@@ -94,3 +94,4 @@ VFP/(D)ROU Resistance Is Character-Forming
 GCU Unacceptable Behaviour
 GSV Cargo Cult
 GCU Just Another Victim Of The Ambient Morality
+GCU Cantankerous
