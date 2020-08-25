@@ -144,3 +144,4 @@ GCU Just Read The Instructions
 GCU Well I Was In The Neighbourhood
 FP/(D)ROU Value Judgement
 VFP/(D)ROU You'll Clean That Up Before You Leave
+LOU Gunboat Diplomat
