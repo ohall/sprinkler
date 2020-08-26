@@ -180,3 +180,4 @@ GSV Kakistocrat
 GSV Lasting Damage I
 GCU Arrested Development
 LSV Xenoglossicist
+GCU Just Testing
