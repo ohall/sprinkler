@@ -213,3 +213,4 @@ GSV Ethics Gradient
 GCU Not Wanted On Voyage
 GCU It'll Be Over By Christmas
 GCU Cantankerous
+GCU Just Read The Instructions
