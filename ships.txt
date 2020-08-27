@@ -218,3 +218,4 @@ FP/(D)ROU The Usual But Etymologically Unsatisfactory
 GCU Only Slightly Bent
 GCU Just Read The Instructions
 ROU Heavy Messing
+VFP/(D)LOU Rapid Random Response Unit
