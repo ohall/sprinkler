@@ -221,3 +221,4 @@ ROU Heavy Messing
 VFP/(D)LOU Rapid Random Response Unit
 GCU Transient Atmospheric Phenomenon
 GSV Empiricist
+GSV Kakistocrat
