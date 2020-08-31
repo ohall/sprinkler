@@ -341,3 +341,4 @@ LSV Serious Callers Only
 GSV The Answer Is Almost Certainly Yes
 ROU Learned Response
 GSV Unfortunate Conflict Of Evidence
+Superlifter Charitable View
