@@ -369,3 +369,4 @@ GSV Unreliable Witness
 ROU Revisionist
 GCU Stranger Here Myself
 GCU Credibility Problem
+GCU Prosthetic Conscience
