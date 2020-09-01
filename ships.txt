@@ -351,3 +351,4 @@ VFP/(D)ROU Resistance Is Character-Forming
 GCU Grey Area
 GCU Armchair Traveller
 GCU Prosthetic Conscience
+GCU Never Talk To Strangers
