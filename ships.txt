@@ -432,3 +432,4 @@ GCU A Ship With A View
 FP/(D)GOU Eight Rounds Rapid
 GCU Not Wanted On Voyage
 FP/(D)ROU Value Judgement
+GCU God Told Me To Do It
