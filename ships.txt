@@ -446,3 +446,4 @@ ROU Learned Response
 GCU Not Wanted On Voyage
 GSV A Fine Disregard For Awkward Facts
 GSV Experiencing A Significant Gravitas Shortfall
+GCV Subtle Shift In Emphasis
