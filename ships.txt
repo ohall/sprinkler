@@ -455,3 +455,4 @@ GSV Lasting Damage
 GCU Arbitrary
 GCU Perfidy
 LSV Profit Margin
+LSV Xenoglossicist
