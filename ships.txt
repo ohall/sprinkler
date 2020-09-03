@@ -439,3 +439,4 @@ GSV Empiricist
 LCU Beats Working
 LSV Xenoglossicist
 GCU Happy Idiot Talk
+GCU Arbitrary
