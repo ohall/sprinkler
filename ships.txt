@@ -453,3 +453,4 @@ GSV Empiricist
 GSV Bora Horza Gobuchul
 GSV Lasting Damage
 GCU Arbitrary
+GCU Perfidy
