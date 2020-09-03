@@ -454,3 +454,4 @@ GSV Bora Horza Gobuchul
 GSV Lasting Damage
 GCU Arbitrary
 GCU Perfidy
+LSV Profit Margin
