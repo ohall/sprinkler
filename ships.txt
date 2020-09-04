@@ -507,3 +507,4 @@ GCU Halation Effect
 GSV A Fine Disregard For Awkward Facts
 GCU A Ship With A View
 GCU Very Little Gravitas Indeed
+GCU Space Monster
