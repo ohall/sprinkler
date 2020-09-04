@@ -498,3 +498,4 @@ GSV No More Mr Nice Guy
 LOU Gunboat Diplomat
 GCU Stranger Here Myself
 GSV Quietly Confident,
+GCU Qualifier
