@@ -521,3 +521,4 @@ GSV Pelagian
 GSV Total Internal Reflection
 GCU Arbitrary
 Superlifter Prime Mover
+GCU Qualifier
