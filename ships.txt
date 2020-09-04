@@ -519,3 +519,4 @@ GCU Fate Amenable To Change
 ROU Revisionist
 GSV Pelagian
 GSV Total Internal Reflection
+GCU Arbitrary
