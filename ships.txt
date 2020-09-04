@@ -515,3 +515,4 @@ GCU Heresiarch
 GSV Quietly Confident,
 GSV Irregular Apocalypse
 GCU Well I Was In The Neighbourhood
+GCU Fate Amenable To Change
