@@ -566,3 +566,4 @@ GSV Death And Gravity
 GCU Dramatic Exit
 GSV Determinist
 GCU Of Course I Still Love You
+(D)ROU Zealot
