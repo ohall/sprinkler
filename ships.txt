@@ -559,3 +559,4 @@ GCU Qualifier
 VFP/(D)LOU Rapid Random Response Unit
 GCU Happy Idiot Talk
 (D)ROU Zealot
+GSV Yawning Angel
