@@ -557,3 +557,4 @@ Fixed Grin
 ROU Frank Exchange Of Views
 GCU Qualifier
 VFP/(D)LOU Rapid Random Response Unit
+GCU Happy Idiot Talk
