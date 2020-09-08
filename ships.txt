@@ -599,3 +599,4 @@ GCU Space Monster
 LCU Anything Legal Considered
 GSV Unfortunate Conflict Of Evidence
 GCU Arbitrary
+(ex-)GCU Smile Tolerantly
