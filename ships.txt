@@ -672,3 +672,4 @@ VFP/(D)ROU Outstanding Contribution To The Historical Process
 GSV Contents May Differ
 ROU Trade Surplus
 GCU Not Wanted On Voyage
+GSV No Fixed Abode
