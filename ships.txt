@@ -674,3 +674,4 @@ ROU Trade Surplus
 GCU Not Wanted On Voyage
 GSV No Fixed Abode
 GOU Headcrash
+GCU Halation Effect
