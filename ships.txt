@@ -781,3 +781,4 @@ GCU Ultimate Ship The Second
 GCU Not Wanted On Voyage
 ROU Killing Time
 GOU Xenocrat
+Clipper Screw Loose
