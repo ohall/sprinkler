@@ -767,3 +767,4 @@ GCU Bodhisattva, OAQS
 GCU Stranger Here Myself
 LOU Gunboat Diplomat
 GCU Sacrificial Victim
+GSV Lasting Damage
