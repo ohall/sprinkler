@@ -769,3 +769,4 @@ LOU Gunboat Diplomat
 GCU Sacrificial Victim
 GSV Lasting Damage
 GCU Dramatic Exit
+VFP/(D)ROU Xenophobe
