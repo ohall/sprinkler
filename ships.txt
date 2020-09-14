@@ -742,3 +742,4 @@ Fixed Grin
 GOU Headcrash
 FP/(D)LOU Hylozoist
 GCU Cantankerous
+GSV Congenital Optimist
