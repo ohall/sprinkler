@@ -770,3 +770,4 @@ GCU Sacrificial Victim
 GSV Lasting Damage
 GCU Dramatic Exit
 VFP/(D)ROU Xenophobe
+GSV Use Psychology
