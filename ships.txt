@@ -759,3 +759,4 @@ GSV Bora Horza Gobuchul
 GSV Little Rascal
 GSV Experiencing A Significant Gravitas Shortfall
 GCU Arbitrary
+GCU Just Read The Instructions
