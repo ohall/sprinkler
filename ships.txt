@@ -771,3 +771,4 @@ GSV Lasting Damage
 GCU Dramatic Exit
 VFP/(D)ROU Xenophobe
 GSV Use Psychology
+GSV Sense Amid Madness, Wit Amidst Folly
