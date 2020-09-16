@@ -831,3 +831,4 @@ FP/(D)ROU Value Judgement
 GCU Flexible Demeanour
 GCU Recent Convert
 GCU Only Slightly Bent
+VFP/(D)LOU Rapid Random Response Unit
