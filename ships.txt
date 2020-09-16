@@ -861,3 +861,4 @@ GCU Problem Child
 GCU Transient Atmospheric Phenomenon
 LOU Attitude Adjuster
 Fixed Grin
+GCU Perfidy
