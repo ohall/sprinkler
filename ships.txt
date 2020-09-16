@@ -862,3 +862,4 @@ GCU Transient Atmospheric Phenomenon
 LOU Attitude Adjuster
 Fixed Grin
 GCU Perfidy
+GCU The Precise Nature Of The Catastrophe
