@@ -875,3 +875,4 @@ ROU Trade Surplus
 FP/(D)GOU Eight Rounds Rapid
 FP/(D)LOU Hylozoist
 GSV Little Rascal
+GSV Wisdom Like Silence
