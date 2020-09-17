@@ -896,3 +896,4 @@ VFP/(D)ROU Resistance Is Character-Forming
 GSV Empiricist
 GSV Eschatologist
 GSV Youthful Indiscretion
+GCU Jaundiced Outlook
