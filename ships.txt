@@ -940,3 +940,4 @@ MSV Not Invented Here
 GCU Not Wanted On Voyage
 GSV Congenital Optimist
 GSV Size Isn't Everything
+LOU Gunboat Diplomat
