@@ -973,3 +973,4 @@ FP/(D)GOU Eight Rounds Rapid
 GSV Determinist
 GSV Cargo Cult
 ROU Trade Surplus
+VFP/(D)ROU Resistance Is Character-Forming
