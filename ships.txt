@@ -992,3 +992,4 @@ GCU Credibility Problem
 GCV Steely Glint
 GSV Lasting Damage II
 GCU Prosthetic Conscience
+Scar Glamour
