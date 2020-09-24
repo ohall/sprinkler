@@ -1114,3 +1114,4 @@ FP/(D)ROU Value Judgement
 GSV Little Rascal
 GCU Well I Was In The Neighbourhood
 GCU Prosthetic Conscience
+GCU Halation Effect
