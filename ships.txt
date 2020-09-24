@@ -1132,3 +1132,4 @@ GSV Unreliable Witness
 FP/(D)ROU Refreshingly Unconcerned With The Vulgar Exigencies Of Veracity
 GSV Total Internal Reflection
 GCU It's Character Forming
+LSV Serious Callers Only
