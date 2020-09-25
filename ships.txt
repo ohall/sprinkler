@@ -1150,3 +1150,4 @@ GSV Total Internal Reflection
 Scar Glamour
 GCU Halation Effect
 LCU Anything Legal Considered
+GCU Heresiarch
