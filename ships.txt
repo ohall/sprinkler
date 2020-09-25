@@ -1165,3 +1165,4 @@ GCU Synchronize Your Dogmas
 GCU Undesirable Alien
 GCU Not Wanted On Voyage
 GCU It's My Party And I'll Sing If I Want To
+GCV Steely Glint
