@@ -1230,3 +1230,4 @@ FP/(D)ROU The Usual But Etymologically Unsatisfactory
 LSV Xenoglossicist
 GCU Displacement Activity
 GCU Recent Convert
+GCU Arrested Development
