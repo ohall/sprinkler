@@ -1228,3 +1228,4 @@ GOU Questionable Ethics
 GCU Transient Atmospheric Phenomenon
 FP/(D)ROU The Usual But Etymologically Unsatisfactory
 LSV Xenoglossicist
+GCU Displacement Activity
