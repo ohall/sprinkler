@@ -1292,3 +1292,4 @@ Hidden Income
 GCU Dramatic Exit
 GSV Bora Horza Gobuchul
 GCU Never Talk To Strangers
+GCU Synchronize Your Dogmas
