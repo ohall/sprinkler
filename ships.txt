@@ -1276,3 +1276,4 @@ GCU Just Read The Instructions
 GSV Sense Amid Madness, Wit Amidst Folly
 FP/(D)ROU Value Judgement
 LSV Xenoglossicist
+GCU God Told Me To Do It
