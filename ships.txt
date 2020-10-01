@@ -1347,3 +1347,4 @@ GSV Seed Drill
 GCU Cantankerous
 GCV Steely Glint
 GSV Kakistocrat
+GCU Reasonable Excuse
