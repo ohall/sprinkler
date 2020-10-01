@@ -1325,3 +1325,4 @@ GSV Kakistocrat
 VFP/(D)LOU Rapid Random Response Unit
 GCU You'll Thank Me Later
 GSV Little Rascal
+GCU Experiencing A Significant Gravitas Shortfall
