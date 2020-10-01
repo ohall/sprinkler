@@ -1348,3 +1348,4 @@ GCU Cantankerous
 GCV Steely Glint
 GSV Kakistocrat
 GCU Reasonable Excuse
+GCU Nervous Energy
