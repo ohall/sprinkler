@@ -1342,3 +1342,4 @@ GCU Prosthetic Conscience
 GCU Experiencing A Significant Gravitas Shortfall
 GSV Kakistocrat
 GSV Ethics Gradient
+GSV Zero Gravitas
