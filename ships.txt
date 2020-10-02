@@ -1379,3 +1379,4 @@ VFP/(D)ROU Resistance Is Character-Forming
 GCU Heresiarch
 ROU Trade Surplus
 LSV Xenoglossicist
+LOU New Toy
