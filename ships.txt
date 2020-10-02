@@ -1367,3 +1367,4 @@ ROU Revisionist
 GSV Lasting Damage
 Shoot Them Later
 GCU Prosthetic Conscience
+GCU A Ship With A View
