@@ -1418,3 +1418,4 @@ LCU Beats Working
 GCU Unacceptable Behaviour
 LOU New Toy
 GCU God Told Me To Do It
+VFP/(D)ROU Resistance Is Character-Forming
