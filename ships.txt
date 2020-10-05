@@ -1426,3 +1426,4 @@ GSV Kakistocrat
 ROU Revisionist
 LSV Xenoglossicist
 LOU Caconym
+GSV Use Psychology
