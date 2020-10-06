@@ -1437,3 +1437,4 @@ ROU Trade Surplus
 GSV Unreliable Witness
 GCU Space Monster
 GCU Armchair Traveller
+GCU Armchair Traveller
