@@ -1451,3 +1451,4 @@ Superlifter Zoologist
 GCU Arbitrary
 GSV Teething Problems
 VFP/(D)ROU Xenophobe
+GCU Not Wanted On Voyage
