@@ -1464,3 +1464,4 @@ Clipper Screw Loose
 GSV Kakistocrat
 LOU Gunboat Diplomat
 GCU Excuses And Accusations
+GCU Synchronize Your Dogmas
