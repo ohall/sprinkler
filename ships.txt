@@ -1487,3 +1487,4 @@ GSV Lasting Damage II
 GSV Determinist
 LCU Beats Working
 GSV Youthful Indiscretion
+GSV Seed Drill
