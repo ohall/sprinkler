@@ -1560,3 +1560,4 @@ GCU Heresiarch
 GCU Well I Was In The Neighbourhood
 GSV Size Isn't Everything
 FP/(D)LOU Hylozoist
+GCV Subtle Shift In Emphasis
