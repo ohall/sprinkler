@@ -1601,3 +1601,4 @@ LOU Gunboat Diplomat
 (D)GOU Limiting Factor
 GSV Quietly Confident,
 GCU Arrested Development
+GCU The Precise Nature Of The Catastrophe
