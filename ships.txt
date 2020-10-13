@@ -1590,3 +1590,4 @@ ROU Killing Time
 GCU Synchronize Your Dogmas
 GCU Happy Idiot Talk
 GCU Warm, Considering
+(D)GOU Limiting Factor
