@@ -1602,3 +1602,4 @@ LOU Gunboat Diplomat
 GSV Quietly Confident,
 GCU Arrested Development
 GCU The Precise Nature Of The Catastrophe
+GCU Halation Effect
