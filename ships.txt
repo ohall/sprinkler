@@ -1598,3 +1598,4 @@ GSV Limivorous
 GCU Excuses And Accusations
 GCU It's Character Forming
 LOU Gunboat Diplomat
+(D)GOU Limiting Factor
