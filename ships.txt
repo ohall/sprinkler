@@ -1645,3 +1645,4 @@ GCU Prosthetic Conscience
 GOU Questionable Ethics
 GCU Recent Convert
 MSV Pressure Drop
+GCU Stranger Here Myself
