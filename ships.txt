@@ -1640,3 +1640,4 @@ GCU Perfidy
 GSV Irregular Apocalypse
 GSV Lasting Damage
 GCU It's My Party And I'll Sing If I Want To
+GSV Congenital Optimist
