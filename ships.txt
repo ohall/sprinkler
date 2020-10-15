@@ -1665,3 +1665,4 @@ Liveware Problem
 GCU Flexible Demeanour
 GSV Honest Mistake
 GSV Lasting Damage I
+GSV Irregular Apocalypse
