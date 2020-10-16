@@ -1708,3 +1708,4 @@ GCU Heresiarch
 GCU Grey Area
 GCU It's Character Forming
 GCU Warm, Considering
+LOU Gunboat Diplomat
