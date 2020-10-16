@@ -1689,3 +1689,4 @@ GSV Zero Gravitas
 MSV Don't Try This At Home
 (D)ROU Zealot
 GSV Unfortunate Conflict Of Evidence
+GCU Halation Effect
