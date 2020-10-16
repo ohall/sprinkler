@@ -1709,3 +1709,4 @@ GCU Grey Area
 GCU It's Character Forming
 GCU Warm, Considering
 LOU Gunboat Diplomat
+GCU Just Another Victim Of The Ambient Morality
