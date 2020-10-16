@@ -1693,3 +1693,4 @@ GCU Halation Effect
 GSV No Fixed Abode
 MSV Not Invented Here
 GCU Ultimate Ship The Second
+Superlifter Charitable View
