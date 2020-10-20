@@ -1772,3 +1772,4 @@ GSV Limivorous
 GCU God Told Me To Do It
 LOU Attitude Adjuster
 GSV Lasting Damage II
+GCU Space Monster
