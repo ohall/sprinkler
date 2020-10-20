@@ -1774,3 +1774,4 @@ LOU Attitude Adjuster
 GSV Lasting Damage II
 GCU Space Monster
 ROU Revisionist
+GCU Tactical Grace
