@@ -1829,3 +1829,4 @@ GSV Death And Gravity
 ROU Nuisance Value
 GSV Cargo Cult
 GCU Flexible Demeanour
+GCU Not Wanted On Voyage
