@@ -1845,3 +1845,4 @@ Clipper Screw Loose
 GCU Heresiarch
 FP/(D)LOU Hylozoist
 VFP/(D)ROU Resistance Is Character-Forming
+GCU Prosthetic Conscience
