@@ -1862,3 +1862,4 @@ ROU Killing Time
 GSV Lasting Damage I
 GCU Synchronize Your Dogmas
 GSV Lasting Damage II
+GCU Happy Idiot Talk
