@@ -1852,3 +1852,4 @@ GCU Well I Was In The Neighbourhood
 GCU A Ship With A View
 GSV Eschatologist
 GSV Lasting Damage I
+GSV Quietly Confident,
