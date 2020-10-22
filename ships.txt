@@ -1861,3 +1861,4 @@ GSV Pelagian
 ROU Killing Time
 GSV Lasting Damage I
 GCU Synchronize Your Dogmas
+GSV Lasting Damage II
