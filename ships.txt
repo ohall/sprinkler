@@ -1873,3 +1873,4 @@ GSV Honest Mistake
 LSV Misophist
 GCU Just Read The Instructions
 GSV What Are The Civilian Applications?
+(ex-)GCU Smile Tolerantly
