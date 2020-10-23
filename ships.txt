@@ -1927,3 +1927,4 @@ GSV Empiricist
 GCU Transient Atmospheric Phenomenon
 LOU Gunboat Diplomat
 GSV No More Mr Nice Guy
+GSV Sanctioned Parts List
