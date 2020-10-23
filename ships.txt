@@ -1914,3 +1914,4 @@ LOU Attitude Adjuster
 Scar Glamour
 GCU Dramatic Exit
 GCU Prosthetic Conscience
+GSV Determinist
