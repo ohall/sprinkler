@@ -1939,3 +1939,4 @@ GCU Unwitting Accomplice
 GCU Displacement Activity
 GCU A Ship With A View
 LOU Attitude Adjuster
+GCU Never Talk To Strangers
