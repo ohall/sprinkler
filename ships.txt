@@ -1941,3 +1941,4 @@ GCU A Ship With A View
 LOU Attitude Adjuster
 GCU Never Talk To Strangers
 ROU Killing Time
+GSV Congenital Optimist
