@@ -1973,3 +1973,4 @@ GCU Just Testing
 GCU Heresiarch
 LOU Gunboat Diplomat
 GOU/PS Falling Outside The Normal Moral Constraints
+GSV Lasting Damage
