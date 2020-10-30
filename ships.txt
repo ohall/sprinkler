@@ -2091,3 +2091,4 @@ GCU Very Little Gravitas Indeed
 LSV Profit Margin
 GSV Pelagian
 LSV Profit Margin
+GSV Cargo Cult
