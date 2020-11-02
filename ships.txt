@@ -2125,3 +2125,4 @@ GCU Unwitting Accomplice
 GSV Kakistocrat
 GCU Grey Area
 ROU Killing Time
+GSV Zero Gravitas
