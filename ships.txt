@@ -2146,3 +2146,4 @@ GCU Halation Effect
 GCU Space Monster
 GSV Kakistocrat
 MSV Passing By And Thought I'd Drop In
+GCU Synchronize Your Dogmas
