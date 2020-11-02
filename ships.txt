@@ -2134,3 +2134,4 @@ MSV Not Invented Here
 GCU Synchronize Your Dogmas
 GCU Grey Area
 GCV Subtle Shift In Emphasis
+GCU Prosthetic Conscience
