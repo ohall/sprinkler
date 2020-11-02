@@ -2133,3 +2133,4 @@ MSV Not Invented Here
 (D)ROU Zealot
 GCU Synchronize Your Dogmas
 GCU Grey Area
+GCV Subtle Shift In Emphasis
