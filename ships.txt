@@ -2131,3 +2131,4 @@ GCU Sacrificial Victim
 GCU Just Testing
 MSV Not Invented Here
 (D)ROU Zealot
+GCU Synchronize Your Dogmas
