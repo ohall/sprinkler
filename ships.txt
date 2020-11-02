@@ -2122,3 +2122,4 @@ GCU Never Talk To Strangers
 Fixed Grin
 GSV The Answer Is Almost Certainly Yes
 GCU Unwitting Accomplice
+GSV Kakistocrat
