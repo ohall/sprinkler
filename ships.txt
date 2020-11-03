@@ -2160,3 +2160,4 @@ GCU Only Slightly Bent
 GSV Kakistocrat
 GCU A Ship With A View
 LOU Gunboat Diplomat
+GCU Flexible Demeanour
