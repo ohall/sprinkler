@@ -2161,3 +2161,4 @@ GSV Kakistocrat
 GCU A Ship With A View
 LOU Gunboat Diplomat
 GCU Flexible Demeanour
+GCU Very Little Gravitas Indeed
