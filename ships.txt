@@ -2163,3 +2163,4 @@ LOU Gunboat Diplomat
 GCU Flexible Demeanour
 GCU Very Little Gravitas Indeed
 GCU Just Another Victim Of The Ambient Morality
+GCU Ablation
