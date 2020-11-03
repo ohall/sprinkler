@@ -2156,3 +2156,4 @@ GSV Uninvited Guest
 MSV Not Invented Here
 GOU/PS Falling Outside The Normal Moral Constraints
 GCU Only Slightly Bent
+(D)GOU Limiting Factor
