@@ -2181,3 +2181,4 @@ GCU Dramatic Exit
 GCU Thank You And Goodnight
 GCU Not Wanted On Voyage
 GCU Prosthetic Conscience
+Superlifter Prime Mover
