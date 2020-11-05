@@ -2269,3 +2269,4 @@ GCU Nervous Energy
 GSV Honest Mistake
 MSV Not Invented Here
 GCU Warm, Considering
+GSV What Are The Civilian Applications?
