@@ -2268,3 +2268,4 @@ GCU Unacceptable Behaviour
 GCU Nervous Energy
 GSV Honest Mistake
 MSV Not Invented Here
+GCU Warm, Considering
