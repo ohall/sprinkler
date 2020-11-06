@@ -2309,3 +2309,4 @@ GCU Heresiarch
 Fixed Grin
 LSV Misophist
 GSV Death And Gravity
+GSV Cargo Cult
